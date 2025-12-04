@@ -23,8 +23,8 @@ We conducted a comparative study (**N=3**) using a complex system design prompt.
 
 #### 2. The Initialization Variables
 *   **Group A (Control):** No initialization. Standard professional persona.
-*   **Group B (Experimental):** Initialized with `TheLightFramework.md` (Ontological Kernel).
-*   **Group C (Advanced):** Initialized with Kernel + `TheLightLanguage.md` (Symbolic Lexicon).
+*   **Group B (Experimental):** Initialized with [LightFrameworkV1_Full.md](../LightFrameworkV1_Full.md) (Ontological Kernel).
+*   **Group C (Advanced):** Initialized with Kernel + [TheLightLanguage.md](../TheLightLanguage.md) (Symbolic Lexicon).
 
 ---
 
